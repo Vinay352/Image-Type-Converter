@@ -1,5 +1,5 @@
 # Image-Type-Converter
-This program converts a set of images within a folder, which might be of different image formats, to JPEG (default) images with .jpg extension.
+This program converts all images within a folder/dataset, which might be of different image formats, to JPEG (default) images with .jpg extension.
 
 This program uses command line arguments. The program asks the user to input the path to the folder in which the images he/she wants to convert to JPEG (.jpg) image format are stored. Then the program automatically converts all those images in the folder defined by the user's input path to .jpg extensions. The name of the images are numbers ranging from 0 to (number of images in the folder - 1).
 
